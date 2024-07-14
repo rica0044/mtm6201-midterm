@@ -260,10 +260,7 @@ h2 {
   margin-top: 10px;
 }
 footer {
-  /* padding: 30px;
   width: 100%;
-  background-color: black;
-  text-align: center */
   position: relative;
   text-align: center;
   padding: 20px;
@@ -276,7 +273,7 @@ footer::after {
   position: absolute;
   top: 0;
   left: 50%;
-  width: 680%;
+  width: 75%;
   height: 1px;
   transform: translateX(-50%);
   background-color: #2f2f2f;
@@ -338,10 +335,7 @@ footer::after {
       width: max-content;
   }
   footer {
-    /* padding: 30px;
     width: 100%;
-    background-color: black;
-    text-align: center */
     position: relative;
     text-align: center;
     padding: 20px;
@@ -354,7 +348,7 @@ footer::after {
     position: absolute;
     top: 0;
     left: 50%;
-    width: 580%;
+    width: 93%;
     height: 1px;
     transform: translateX(-50%);
     background-color: #2f2f2f;
@@ -424,10 +418,7 @@ footer::after {
       padding-top: 10px;
   }
   footer {
-    /* padding: 30px;
     width: 100%;
-    background-color: black;
-    text-align: center */
     position: relative;
     text-align: center;
     padding: 20px;
@@ -440,7 +431,7 @@ footer::after {
     position: absolute;
     top: 0;
     left: 50%;
-    width: 350%;
+    width: 88%;
     height: 1px;
     transform: translateX(-50%);
     background-color: #2f2f2f;
